@@ -1,11 +1,9 @@
-// @author: Thomas Thompson
-// @github: tomtom28
-// @comment: HW 10 (LIRI Node App)
+
 
 
 
 // My unique Twitter username (please change it to your username for testing)
-var myTwitterUserName = 'tommytom828';
+var myTwitterUserName = "gqbrown_pr";
 
 
 // Link in Node Packages
@@ -106,8 +104,7 @@ switch(commandType){
     break;
 
 
-  // Case 00 - Handle Invalid Entry
-  default:
+  
 
     // Skip a line in console
     console.log('');
